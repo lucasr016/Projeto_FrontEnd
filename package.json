@@ -14,5 +14,34 @@
     "lodash": "^4.14.0",
     "vue": "^1.0.26",
     "vue-resource": "^0.9.3"
-  }
+  },
+  "name": "frontend",
+  "description": "[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)\r [![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)\r [![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)\r [![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)\r [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-clean": "^0.3.2",
+    "gulp-dest": "^0.2.3",
+    "gulp-livereload": "^3.8.1",
+    "jquery": "^3.1.0",
+    "laravel-elixir-webpack-official": "^1.0.5",
+    "lodash": "^4.15.0",
+    "vue": "^1.0.26",
+    "vue-resource": "^0.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasr016/Projeto_FrontEnd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasr016/Projeto_FrontEnd/issues"
+  },
+  "homepage": "https://github.com/lucasr016/Projeto_FrontEnd#readme"
 }
